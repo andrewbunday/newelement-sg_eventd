@@ -1,4 +1,9 @@
+Description
+===========
+
 Sends an annoying email each time a new element has been created.
+Internally we have a collection of these types of plugins under the umbrella
+project name of "Spamalot".
 
 Usage
 =====
